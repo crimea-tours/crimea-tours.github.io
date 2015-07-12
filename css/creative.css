@@ -52,7 +52,11 @@ p {
 }
 
 .bg-primary {
+    background-image: url(../img/minibus.jpg);
     background-color: #f05f40;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .bg-dark {
