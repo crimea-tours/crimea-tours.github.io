@@ -295,7 +295,7 @@ header .header-content .header-content-inner p {
     transform: translateY(-50%);
 }
 
-@media(max-width:550px) {
+@media(max-width:990px) {
     .portfolio-box .portfolio-box-caption {
         -webkit-transition: none;
         -moz-transition: none;
