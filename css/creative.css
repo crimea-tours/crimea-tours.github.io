@@ -312,6 +312,10 @@ header .header-content .header-content-inner p {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
         font-size: 25px !important;
     }
+
+    .text-faded {
+        color: white;
+    }
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
