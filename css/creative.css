@@ -54,7 +54,7 @@ p {
 .bg-primary {
     background-image: url(../img/minibus.jpg);
     background-color: #f05f40;
-    background-position: right;
+    background-position: left;
     background-repeat: no-repeat;
     background-size: contain;
 }
