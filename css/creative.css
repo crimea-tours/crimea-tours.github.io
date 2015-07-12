@@ -309,11 +309,6 @@ header .header-content .header-content-inner p {
         1px 1px 0 #000;
     }
 
-    .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
-        top: 90%;
-        transform: translateY(-100%);
-    }
-
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
         font-size: 25px !important;
     }
